@@ -1,0 +1,29 @@
+span{
+    color:white;
+    font-weight:bold;
+    font-family:helvetica;
+}
+
+.player{
+    
+}
+
+#winner{
+    color:white;
+    font-weight:bold;
+    font-family:helvetica;
+}
+
+#main{
+    
+    width:50%;
+    margin:auto;
+}
+
+body{
+    background-image:url("wood.jpg");    
+}
+
+img{
+    padding:10px;
+}
